@@ -1,4 +1,4 @@
-dobjs
+dob.js
 =====
 
-DOB JS - A simple jQuery plugin to use dropdown style date of birth pickers
+DOB.JS - A simple jQuery plugin to use dropdown style date of birth pickers
